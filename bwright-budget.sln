@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bwright-budget", "bwright-budget\bwright-budget.csproj", "{B3AA95E5-4D5B-4FC8-9AC0-4BACB4FBC70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AA95E5-4D5B-4FC8-9AC0-4BACB4FBC70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AA95E5-4D5B-4FC8-9AC0-4BACB4FBC70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AA95E5-4D5B-4FC8-9AC0-4BACB4FBC70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AA95E5-4D5B-4FC8-9AC0-4BACB4FBC70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A41CEB41-8C28-4649-BD53-B74D60940BE3}
+	EndGlobalSection
+EndGlobal
